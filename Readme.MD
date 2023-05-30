@@ -1,1 +1,1 @@
-Create a directory "Documents" in G drive
+Create a directory "Documents" in any drive
